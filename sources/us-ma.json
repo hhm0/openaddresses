@@ -14,7 +14,7 @@
     "type": "http",
     "compression": "zip",
     "conform": {
-        "file": "SHPStatewideParcels/L3_TAXPARPOLY_ASSESS.shp",
+        "file": "L3_TAXPAR_POLY_ASSESS.shp",
         "lon": "x",
         "lat": "y",
         "number": "addr_num",
